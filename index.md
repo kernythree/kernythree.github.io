@@ -1,12 +1,21 @@
 ---
 layout: home
-title: "Welcome"
+title: "Welcome!"
 ---
 
-# 👋 Hi, I'm [Your Name]  
-**Freelance Scientist & Open-Source Developer**  
-🔬 Marine Science | 🛠 Embedded Systems | 🌍 Open-Source Conservation  
+ 
+I'm Mohan JULIEN, a microelectronics researcher designing open-source hardware and software that blends science, art, and fun!
 
-I design **open-source hardware and software** for **marine ecosystem monitoring**. My work focuses on developing innovative **sensor networks** and **data-driven conservation solutions**.
+My research interests lie at the intersection of technology, wildlife, and natural ecosystems, exploring innovative ways to bridge the gap between advanced electronics and environmental conservation.
 
-💡 [Explore My Projects](/projects/) | 📚 [Read My Publications](/publications/) | 📬 [Get in Touch](/contact/)
+Beyond research, I’m also an amateur musician and graphic artist, always exploring ways to merge technology, sound, and visuals into creative projects.
+
+🛠 [Explore projects](/projects/)
+
+🔬 [Read publications](/publications/)
+
+📄 [Academic Curriculum Vitae](/cv/)
+
+📬 [Get in Touch](/contact/)
+
+![](assets/images/base_logo_minimalist_3_blacknwhite_inverted.png)
