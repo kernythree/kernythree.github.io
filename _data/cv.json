@@ -1,0 +1,138 @@
+{
+    "basics": {
+      "name": "Mohan Julien",
+      "label": "PhD in Microelectronics",
+      "email": "mohanjulien@gmail.com",
+      "phone": "+33 6 29 66 15 22",
+      "location": {
+        "city": "Piton Saint-Leu",
+        "region": "La Réunion",
+        "countryCode": "FR"
+      },
+      "url": "https://github.com/kernythree"
+    },
+    "work": [
+      {
+        "name": "LORASHIP Project",
+        "position": "Postdoctoral Researcher at IFREMER",
+        "startDate": "2023-03",
+        "endDate": "2025-01",
+        "summary": "Deployment of a LoRa network for marine wildlife observation in high seas using maritime traffic. Scientific valorization of research conducted within the IOT and PLANCHA projects."
+      },
+      {
+        "name": "PLANCHA Project",
+        "position": "Postdoctoral Researcher at LIRMM (CNRS)",
+        "startDate": "2022-04",
+        "endDate": "2022-11",
+        "summary": "Development of an automated data processing pipeline for bathymetry data to create a 3D georeferenced model of the studied seafloor. Preparation and participation in data collection campaigns in La Réunion and during the first leg of the Monaco Explorations Indian Ocean Mission (MEOI 2022)."
+      },
+      {
+        "name": "IOT, TALE, and PLANCHA Projects",
+        "position": "Postdoctoral Researcher at IFREMER",
+        "startDate": "2021-04",
+        "endDate": "2022-03",
+        "summary": "Implementation and development of a LoRa network and associated beacons for tracking sea turtles in the Indian Ocean: Réunion, Mayotte, Seychelles, Îles Éparses (IOT). Development of motion sensor prototypes for species identification in longline fisheries (TALE). Development and deployment of an ASV prototype for seafloor mapping to identify marine habitats and species (PLANCHA)."
+      },
+      {
+        "name": "FISHNCHIP Project",
+        "position": "Postdoctoral Researcher at LIRMM (CNRS)",
+        "startDate": "2019-03",
+        "endDate": "2021-03",
+        "summary": "Exploration and design of implantable bioimpedance measurement solutions for long-term physiological monitoring of large pelagic fish. System characterization in the laboratory."
+      },
+      {
+        "name": "ISYtest Lab (NXP/CNRS)",
+        "position": "Research Engineer at LIRMM (CNRS)",
+        "startDate": "2015-02",
+        "endDate": "2015-10",
+        "summary": "Design of a demonstration prototype for validating a new self-adaptive strategy for NFC (Near Field Communication) systems."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Montpellier",
+        "area": "Automatic Systems and Microelectronics",
+        "studyType": "PhD",
+        "startDate": "2015-11",
+        "endDate": "2018-11",
+        "summary": "CMOS design of high-performance integrated current sources for biomedical applications. Development of a new design approach based on current mirror optimization and non-linear feedback loops to achieve fast, precise, and energy-efficient sources."
+      },
+      {
+        "institution": "INSA Lyon",
+        "area": "Electrical Engineering",
+        "studyType": "Engineering Degree",
+        "startDate": "2011-09",
+        "endDate": "2014-07",
+        "summary": "General engineering training in electrical engineering with a specialization in embedded and integrated systems."
+      },
+      {
+        "institution": "IUT Montpellier",
+        "area": "Instrumentation Techniques",
+        "studyType": "DUT (Technical Degree)",
+        "startDate": "2009-09",
+        "endDate": "2011-07",
+        "summary": "Technical training dedicated to observation and measurement of physical systems."
+      }
+    ],
+    "teaching": [
+      {
+        "institution": "Ifremer",
+        "position": "Internship Supervisor",
+        "startDate": "2021-08",
+        "endDate": "2022-07",
+        "summary": "Supervised an intern developing a LoRa data server and a web visualization interface for the IOT project on sea turtles in the Indian Ocean."
+      },
+      {
+        "institution": "Polytech Montpellier",
+        "position": "Adjunct Lecturer",
+        "startDate": "2017-11",
+        "endDate": "2018-04",
+        "summary": "Taught UNIX systems, IP networks, and C programming (64 hours). Delivered lectures and supervised practical coursework on UNIX fundamentals, IP networks, and concurrent programming in C on Raspberry Pi."
+      }
+    ],
+    "languages": [
+      {
+        "language": "French",
+        "fluency": "Native"
+      },
+      {
+        "language": "English",
+        "fluency": "Fluent/Professional"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Embedded Systems"
+      },
+      {
+        "name": "Analog IC Design"
+      },
+      {
+        "name": "LoRa Networks"
+      },
+      {
+        "name": "Bio-loggers"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Scientific Interests",
+        "keywords": ["Committed to science communication and interdisciplinary research, my work lies at the intersection of technology and life sciences. It focuses on the development of electronic systems and sensor networks for the observation, analysis, and conservation of living organisms and natural ecosystems."]
+      },
+      {
+        "name": "Personal Interests",
+        "keywords": ["A multi-instrumentalist performing solo and in groups, I engage in home-studio recording and live event organization. My work also includes developing digital effects and small musical instruments using Arduino/Raspberry Pi and low-cost commercial sensors. Additionally, I have a passion for graphic design, primarily creating visuals for cultural event promotion."]
+      }
+    ],
+    "references": [
+      {
+        "name": "Serge Bernard, Research Director at CNRS (serge.bernard@lirmm.fr)",
+        "reference": ""
+      },
+      {
+        "name": "Sylvain Bonhommeau, Research Director at Ifremer (sylvain.bonhommeau@ifremer.fr)",
+        "reference": ""
+      }
+    ]
+  }
+  

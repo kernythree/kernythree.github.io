@@ -10,12 +10,12 @@ My research interests lie at the intersection of technology, wildlife, and natur
 
 Beyond research, I’m also an amateur musician and graphic artist, always exploring ways to merge technology, sound, and visuals into creative projects.
 
-🛠 [Explore projects](/projects/)
+🛠 [Explore projects](./projects)
 
-🔬 [Read publications](/publications/)
+🔬 [Read publications](./publications)
 
-📄 [Academic Curriculum Vitae](/cv/)
+📄 [Academic Curriculum Vitae](./cv)
 
-📬 [Get in Touch](/contact/)
+📬 [Get in Touch](./contact)
 
 ![](assets/images/base_logo_minimalist_3_blacknwhite_inverted.png)
