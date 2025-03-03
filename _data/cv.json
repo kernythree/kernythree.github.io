@@ -117,11 +117,11 @@
     "interests": [
       {
         "name": "Scientific Interests",
-        "keywords": ["Committed to science communication and interdisciplinary research, my work lies at the intersection of technology and life sciences. It focuses on the development of electronic systems and sensor networks for the observation, analysis, and conservation of living organisms and natural ecosystems."]
+        "keywords": ["My research interests lie at the intersection of technology, wildlife, and natural ecosystems, exploring innovative ways to bridge the gap between advanced electronics and environmental conservation."]
       },
       {
         "name": "Personal Interests",
-        "keywords": ["A multi-instrumentalist performing solo and in groups, I engage in home-studio recording and live event organization. My work also includes developing digital effects and small musical instruments using Arduino/Raspberry Pi and low-cost commercial sensors. Additionally, I have a passion for graphic design, primarily creating visuals for cultural event promotion."]
+        "keywords": ["I’m also an amateur musician and graphic artist, always exploring ways to merge technology, sound, and visuals into creative projects."]
       }
     ],
     "references": [
